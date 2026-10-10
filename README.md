@@ -1,2 +1,3 @@
 # Garoto de programa
-P´rimeiro repositorio versionado
+Primeiro repositorio versionado
+
